@@ -19,10 +19,10 @@ public class Lesson04 {
 		System.out.println("１桁の数字を入力してください");
 		int input = new java.util.Scanner(System.in) .nextInt();
 		for (int n : numbers) {
-			if (n == input)
+			if (n == input) {
 				System.out.println("あたり！");
-//			} else
-//				System.out.println("はずれ。。");
+			} else
+				System.out.println("はずれ。。");
 		}
 	}
 }
