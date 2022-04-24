@@ -1,5 +1,3 @@
-//要復習
-
 public class Lesson05_practice5no13 {
 	public static void incArray(int[] array) {
 		for (int i = 0; i < array.length; i++) {
