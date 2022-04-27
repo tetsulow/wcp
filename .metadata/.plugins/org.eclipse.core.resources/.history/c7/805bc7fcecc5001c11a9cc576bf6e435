@@ -1,0 +1,11 @@
+package Lesson06;
+import comment.Zenhan;
+
+public class Main {
+	public static void main(String[] args) throws Evception {
+		Zenhan.doWarusa();
+		Zenhan.doTogame();
+		comment.Kouhan.callDeae();
+		comment.Kouhan.shoeMondokoro();
+	}
+}
