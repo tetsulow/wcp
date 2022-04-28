@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <runner version="1.0.0">
-    <category expanded="true" name="カテゴリーなし">
+    <category expanded="false" name="カテゴリーなし">
         <launchConfiguration bookmark="false" defaultLaunchMode="run" name="Chapter02"/>
         <launchConfiguration bookmark="false" defaultLaunchMode="run" name="Chapter04"/>
         <launchConfiguration bookmark="false" defaultLaunchMode="run" name="Chapter05"/>
@@ -21,5 +21,6 @@
         <launchConfiguration bookmark="false" defaultLaunchMode="run" name="Ready02"/>
         <launchConfiguration bookmark="false" defaultLaunchMode="run" name="Switch01"/>
         <launchConfiguration bookmark="false" defaultLaunchMode="run" name="Variable01"/>
+        <launchConfiguration bookmark="false" defaultLaunchMode="run" name="test5"/>
     </category>
 </runner>
