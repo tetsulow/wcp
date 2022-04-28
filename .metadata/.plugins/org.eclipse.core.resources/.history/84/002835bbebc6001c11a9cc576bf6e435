@@ -22,10 +22,10 @@ public class test5 {
 				//c = m2 + n2
 				c = m + n;
 
-				if(Math.pow(c, 2) <= 100) {
+				if(Math.pow(c, 2) <= 6000) {
 					cnt++;
 				}
-//				System.out.println("a = " + a + ", b = " + b + ", c = " + c);
+				System.out.println("a = " + a + ", b = " + b + ", c = " + c);
 			}
 		}
 		System.out.println("c²が6000以下のピタゴラスの定理は[" + cnt + "]件ありました");
