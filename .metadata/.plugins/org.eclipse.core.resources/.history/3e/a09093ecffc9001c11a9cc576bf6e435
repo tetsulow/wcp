@@ -5,6 +5,6 @@ public class Echo {
             System.out.println(args[i] + " ");
             i++;
         }
-//        System.out.println();
+        System.out.println();
     }
 }
