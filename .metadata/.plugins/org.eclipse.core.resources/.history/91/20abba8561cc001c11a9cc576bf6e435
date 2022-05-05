@@ -1,8 +1,7 @@
  //このサンプルで使う他のいくつかのクラスをインポートします
  //インポートされたクラスは、完全名を指定する必要はありません
  import java.math.BigInteger; //java.mathパッケージからBigIntegerをインポートします
-//java.utilから(ArrayListを含む)すべてのクラスをインポートします
-import java.util.ArrayList;
+ import java.util.*; //java.utilから(ArrayListを含む)すべてのクラスをインポートします
 
  /**
   * このバージョンでは、任意の整数が使えます。計算できる値の上限はありません。固定サイズの
