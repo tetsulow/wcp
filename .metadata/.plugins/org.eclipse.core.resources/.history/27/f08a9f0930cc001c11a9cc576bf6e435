@@ -7,7 +7,6 @@ public class Fibonacci {
         for(int i = 1; i < 31; i++){
             n3 = n0 + n1 + n2;
             System.out.print(n3 + " ");
-            n0 = n1;
             n1 = n2;
             n2 = n3;
         }
