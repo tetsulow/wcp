@@ -9,6 +9,7 @@
         <launchConfiguration bookmark="false" defaultLaunchMode="run" name="Chapter08"/>
         <launchConfiguration bookmark="false" defaultLaunchMode="run" name="Chapter09"/>
         <launchConfiguration bookmark="false" defaultLaunchMode="run" name="Echo"/>
+        <launchConfiguration bookmark="false" defaultLaunchMode="run" name="FactQuoter"/>
         <launchConfiguration bookmark="false" defaultLaunchMode="run" name="Factorial"/>
         <launchConfiguration bookmark="false" defaultLaunchMode="run" name="Fibonacci"/>
         <launchConfiguration bookmark="false" defaultLaunchMode="run" name="If01"/>
