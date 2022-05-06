@@ -10,7 +10,7 @@ public class FactQuoter {
         for(;;){
             //ユーザにプロンプトを表示
             System.out.print("FactQuoter> ");
-            //ユーザが入力した行を読む
+            //ユーザが入力した行を読みます。
             String line = in.readLine();
             //ファイルの終わりになったか、あるいはユーザがquitをタイプした場合、
             //入力行を解析し、階乗を計算して、結果を表示
