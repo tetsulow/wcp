@@ -8,7 +8,7 @@ public class FactQuoter {
         BufferedReader in = new BufferedReader(new InputStreamReader(System.in));
         //無限ループです。
         for(;;){
-            //ユーザにプロンプトを表示
+            //ユーザにプロンプトを表示します。
             System.out.print("FactQuoter> ");
             //ユーザが入力した行を読みます。
             String line = in.readLine();
