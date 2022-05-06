@@ -6,7 +6,7 @@ public class FactQuoter {
     public static void main(String[] args) throws IOException{
         //ユーザのテキスト入力を読むために、BufferedReaderを設定します。
         BufferedReader in = new BufferedReader(new InputStreamReader(System.in));
-        //無限ループ
+        //無限ループです。
         for(;;){
             //ユーザにプロンプトを表示
             System.out.print("FactQuoter> ");
