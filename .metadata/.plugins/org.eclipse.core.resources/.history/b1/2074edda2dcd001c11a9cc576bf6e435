@@ -13,12 +13,12 @@ public class FactQuoter {
             //ユーザが入力した行を読みます。
             String line = in.readLine();
             //ファイルの終わりになったか、あるいはユーザがquitをタイプした場合、
-            //入力行を解析し、階乗を計算して、結果を表示
+            //入力行を解析し、階乗を計算して、結果を表示します。
             try{
                 int x = Integer.parseInt(line);
                 System.out.println(x + "! = " + Factorial4.factorial(x));
             }
-            //何か問題が発生したら、エラーメッセージを表示
+            //何か問題が発生したら、エラーメッセージを表示します。
             catch(Exception e) { System.out.println("Invalid Input"); }
         }
     }
