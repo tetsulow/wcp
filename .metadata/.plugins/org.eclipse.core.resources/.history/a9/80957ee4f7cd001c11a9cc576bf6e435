@@ -18,7 +18,8 @@ public class Factorial4 {
      }
 
      /**
-      * factorial()メソッドです。ArrayListにキャッシュされているBigIntegerを使う
+      * factorial()メソッドです。ArrayListにキャッシュされているBigIntegerを
+      * 使います。
       */
      public static synchronized BigInteger factorial(int x){
          if(x < 0) throw new IllegalArgumentException("xは0以上でなければいけません");
