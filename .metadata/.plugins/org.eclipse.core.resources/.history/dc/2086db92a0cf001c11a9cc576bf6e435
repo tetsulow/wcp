@@ -1,7 +1,7 @@
  //このサンプルで使う他のいくつかのクラスをインポートします
  //インポートされたクラスは、完全名を指定する必要はありません
  import java.math.BigInteger; //java.mathパッケージからBigIntegerをインポートします
-//java.utilから(ArrayListを含む)すべてのクラスをインポート
+//java.utilから(ArrayListを含む)すべてのクラスをインポートします
 import java.util.ArrayList;
 
  /**
