@@ -11,7 +11,7 @@ public class Cleric {
 		System.out.println(this.name + "はセルフエイドを唱えた！");
 		this.hp = this.MAX_HP;
 		this.mp -= 5;
-		System.out.println("HPが最大まで回復s！");
+		System.out.println("HPが最大まで回復した！");
 	}
 
 	public int pray(int sec) {
