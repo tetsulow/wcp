@@ -22,7 +22,6 @@ public class Cleric {
 
 //		実際の回復量を計算する
 		int recoverActual = Math.min(this.MAX_MP - this.mp, recover);
-
 		this.mp += recoverActual;
 		System.out.println("MPが" + recoverActual + "回復した！");
 		return recoverActual;
