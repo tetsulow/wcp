@@ -35,7 +35,7 @@ public class CodeBrakerFirst {
         int[] input = new int[3];// 入力した答えが入る
         /*
          * hitはhitのカウント用、blowもblowのカウント用。
-         * countは何回目のチャレンジかを数えている
+         * countは何回目のチャレンジかを数えている。
          */
         int hit = 0, blow = 0, count = 0;
 
