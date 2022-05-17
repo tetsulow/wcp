@@ -49,7 +49,7 @@ public class CodeBrakerFirst {
         //ランダムな答えを作成。
         //ただし、仕様通り、同じ数字がないようにする。
         for (int i = 0; i < answer.length; i++) {
-            //自分より前の要素にかぶるやつがないか確かめる
+            //自分より前の要素にかぶるやつがないか確かめる。
             //あったらもう1回random
             boolean flag = false;
             answer[i] = (int) (Math.random() * 6 + 1);
