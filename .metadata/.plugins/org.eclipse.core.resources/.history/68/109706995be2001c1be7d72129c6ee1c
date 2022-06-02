@@ -4,6 +4,6 @@ public class overroad09 {
 		System.out.println(h1.name);
 		Hero h2 = new Hero();
 		System.out.println(h2.name);
-		System.out.print(" " + h2.hp);
+		System.out.print(" "h2.hp);
 	}
 }
