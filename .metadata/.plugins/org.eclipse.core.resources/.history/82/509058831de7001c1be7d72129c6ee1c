@@ -6,7 +6,7 @@ import java.io.InputStreamReader;
 
 /**
  * CodeBreakerFirst<br>
- * シンプルにmainメソッドだけでコードブレイカーを作成しました
+ * シンプルにmainメソッドだけでコードブレイカーを作成
  *
  * @author ono
  */
