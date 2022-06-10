@@ -23,7 +23,7 @@ public class CodeBrakerFirst {
          * ヒット数、ブロー数、チャレンジの回数
          */
         String title = "*** CodeBreaker ***";// タイトル
-        String rule = "隠された3つの数字を当てます。\n"
+        String rule = "隠されたつの数字を当てます。\n"
                     + "1つの数字は1から6の間です。\n"
                     + "3つの答えの中に同じ数字はありません。\n"
                     + "入力した数字の、"
