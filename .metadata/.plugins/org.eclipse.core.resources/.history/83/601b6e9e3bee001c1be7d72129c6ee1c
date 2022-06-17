@@ -18,7 +18,7 @@ public class CodeBrakerFirst {
     public static void main(String[] args) {
         //変数の初期化
         /* 必要な変数
-         * タイトル、ルール文、答えの格納される配列、
+         * タイトルルール文、答えの格納される配列、
          * 入力された数字の格納される配列
          * ヒット数、ブロー数、チャレンジの回数
          */
