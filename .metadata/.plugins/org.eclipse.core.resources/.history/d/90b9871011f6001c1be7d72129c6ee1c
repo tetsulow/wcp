@@ -81,7 +81,7 @@ public class CodeBrakerFirst {
                     i--;
                 }
             }
-            //答え判断
+            //答えの判断
             hit = 0;
             blow = 0;
             for (int i = 0; i < answer.length; i++) {
