@@ -77,7 +77,7 @@ public class CodeBrakerFirst {
                     System.err.println("数値を入力してください");
                     i--;
                 } catch (IOException e) {
-                    System.err.println("もう一度入力してくださ");
+                    System.err.println("もう一度入力してください");
                     i--;
                 }
             }
