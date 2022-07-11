@@ -74,7 +74,7 @@ public class CodeBrakerFirst {
                 try {
                     input[i] = Integer.parseInt(br.readLine());
                 } catch (NumberFormatException e) {
-                    System.err.println("数値を入力してください");
+                    System.err.println("数値を入力してくださ");
                     i--;
                 } catch (IOException e) {
                     System.err.println("もう一度入力してください");
