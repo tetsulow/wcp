@@ -5,7 +5,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 
 /**
- * CodeBreaker<br>
+ * CodeBreakerFirst<br>
  * シンプルにmainメソッドだけでコードブレイカーを作成
  *
  * @author ono
